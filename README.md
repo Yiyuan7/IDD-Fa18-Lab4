@@ -16,11 +16,19 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **a. Which color wires correspond to power, ground and signal?**
 
+orange is signal, red is power, ground is brown
+
 ### Part 2. Connect the Servo to your Arduino
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
+9
+
 **b. What aspects of the Servo code control angle or speed?**
+
+pos <= 180
+
+delay(15)
 
 ## Part C. Integrating input and output
 
