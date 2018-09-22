@@ -1,14 +1,7 @@
-# Paper Puppets
-
-*A lab report by John Q. Student*
-
-## In this Report
-
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+[video](https://drive.google.com/file/d/1FPJTmHTvlKWNk4lGWANjRr_tfHQMkVNz/view?usp=sharing)
 
 ## Part B. Actuating Servo motors
 
@@ -22,7 +15,7 @@ orange is signal, red is power, ground is brown
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
-9
+pin 7
 
 **b. What aspects of the Servo code control angle or speed?**
 
@@ -32,13 +25,13 @@ delay(15)
 
 ## Part C. Integrating input and output
 
-**Include a photo/movie of your raw circuit in action.**
+[move](https://drive.google.com/file/d/1D-gmr1lnF0oy_UR-BN7hXoZbheT8h1AD/view?usp=sharing)
 
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
+[strech](https://drive.google.com/file/d/1xfxAkN6TDmpe9-nvyBdPk-Env5KiGut_/view?usp=sharing)
 
 ## Part E. Make it your own
 
-**a. Make a video of your final design.**
+[tongue](https://drive.google.com/file/d/13FNVNtDhHyPYMppzGGus74pEU8ObAHb5/view?usp=sharing)
  
